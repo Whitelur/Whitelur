@@ -44,7 +44,7 @@
 <li>  <a href="https://github.com/Whitelur/git_bash">Работа с git и bash </a>  </li>
 
 <h3 align="center"> Социальные сети </h3>
-<a href= ""><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href= ""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "https://www.linkedin.com/in/elizavetausanova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/whitelur"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "lise1234979@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
